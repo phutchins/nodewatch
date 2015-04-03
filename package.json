@@ -1,0 +1,22 @@
+{
+  "name": "nodewatch",
+  "version": "0.0.0",
+  "description": "Open a port and display any incoming connections with as much information as is available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:phutchins/nodewatch.git"
+  },
+  "keywords": [
+    "nodewatch"
+  ],
+  "author": "Philip Hutchins",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/phutchins/nodewatch/issues"
+  },
+  "homepage": "https://github.com/phutchins/nodewatch"
+}
